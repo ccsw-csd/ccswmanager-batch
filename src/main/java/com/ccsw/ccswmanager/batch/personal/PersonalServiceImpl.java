@@ -1,4 +1,4 @@
-package com.capgemini.ccsw.ccswmanager.batch.personal;
+package com.ccsw.ccswmanager.batch.personal;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

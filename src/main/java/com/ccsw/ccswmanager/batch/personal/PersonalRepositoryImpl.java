@@ -1,4 +1,4 @@
-package com.capgemini.ccsw.ccswmanager.batch.personal;
+package com.ccsw.ccswmanager.batch.personal;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;

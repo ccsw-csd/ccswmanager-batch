@@ -1,4 +1,4 @@
-package com.capgemini.ccsw.ccswmanager.batch;
+package com.ccsw.ccswmanager.batch;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
@@ -6,7 +6,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.capgemini.ccsw.ccswmanager.batch.personal.PersonalService;
+import com.ccsw.ccswmanager.batch.personal.PersonalService;
 
 @SpringBootApplication
 public class CCSwmanagerBatchApplication implements CommandLineRunner {

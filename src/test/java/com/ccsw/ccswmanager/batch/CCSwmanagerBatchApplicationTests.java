@@ -1,4 +1,4 @@
-package com.capgemini.ccsw.ccswmanager.batch;
+package com.ccsw.ccswmanager.batch;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
